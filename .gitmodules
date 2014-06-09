@@ -1,0 +1,9 @@
+[submodule "vim"]
+	path = vim
+	url = git@github.com:oss-mirrors/vim.git
+[submodule "PHP-Barcode"]
+	path = PHP-Barcode
+	url = git@github.com:oss-mirrors/PHP-Barcode.git
+[submodule "egroupware"]
+	path = egroupware
+	url = git@github.com:oss-mirrors/egroupware.git
