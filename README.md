@@ -1,4 +1,4 @@
-#  Open Source Software Mirrors
+# Open Source Software Mirrors
 
 Unofficial mirrors of open source software projects, for convenience.
 
