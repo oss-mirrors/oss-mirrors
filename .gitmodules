@@ -7,3 +7,6 @@
 [submodule "egroupware"]
 	path = egroupware
 	url = git@github.com:oss-mirrors/egroupware.git
+[submodule "iharder"]
+	path = iharder
+	url = git@github.com:oss-mirrors/iharder.git
